@@ -122,6 +122,7 @@
 /* Estilos do container de links / redes sociais */
 .container-links {
     text-align: center;
+    
 }
 
 /* Estilos do titulo do container de links */
@@ -180,6 +181,7 @@
 .container-links__link {
     color: var(--verde-destaque);
     font-size: 18px;
+    text-decoration: none;
 }
 
 .container-links__link::after {
